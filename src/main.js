@@ -1,4 +1,4 @@
-import { createApp } from '../node_modules/vue/dist/vue.esm-bundler';
+import { createApp } from '../node_modules/vue/dist/vue.runtime.esm-bundler';
 import App from './App.vue'
 import router from './router'
 
