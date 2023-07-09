@@ -1,29 +1,28 @@
-# vue-pwa
+<p align="center">
+  <h1 align="center">Fylo</h1>
+</p>
 
-This template should help get you started developing with Vue 3 in Vite.
+<p align="center">
+  🟢Vue.js | 🔴SCSS | 🖼️Figma
+</p>
 
-## Recommended IDE Setup
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
 
-## Customize configuration
+<p align="center">
+  <img src="https://i.ibb.co/fY1dzPW/smartmockups-lju0iktp.png" width="500">
+</p>
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
 
-## Project Setup
+## 🎯 Project Overview
 
+The project was executed following a pixel-perfect UI/UX design provided on Figma. This provided an opportunity to demonstrate precision and attention to detail in transforming a design mockup into a functional page.
+
+## ⏱️ Quick Execution
+
+This landing page was completed within a few hours, showcasing speed and efficiency in the development process.
+
+### Start
+To get the project running on your local machine:
 ```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
+npm start
 ```
