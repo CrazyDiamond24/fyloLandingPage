@@ -15,7 +15,7 @@
 
 ## 🎯 Project Overview
 
-The project was executed following a pixel-perfect UI/UX design provided on Figma. This provided an opportunity to demonstrate precision and attention to detail in transforming a design mockup into a functional page.
+The project was executed following a pixel-perfect UI/UX design provided on Figma. This provided an opportunity to demonstrate precision and attention to detail in transforming a design mockup into a functional fully responsive page.
 
 ## ⏱️ Quick Execution
 
