@@ -21,6 +21,9 @@ The project was executed following a pixel-perfect UI/UX design provided on Figm
 
 This landing page was completed within a few hours, showcasing speed and efficiency in the development process.
 
+## 💼 Deployment
+The final project can be viewed [here](https://crazydiamond24.github.io/fyloLandingPage/#/). 
+
 ### Start
 To get the project running on your local machine:
 ```sh
